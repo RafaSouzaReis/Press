@@ -1,4 +1,7 @@
 {
   "name": "Press",
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.4.1",
+  "devDependencies": {
+    "prettier": "^3.5.2"
+  }
 }
