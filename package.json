@@ -1,6 +1,6 @@
 {
   "name": "Press",
-  "packageManager": "yarn@4.4.1",
+  "packageManager": "yarn@4.6.0",
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "eslint": "^9.21.0",
